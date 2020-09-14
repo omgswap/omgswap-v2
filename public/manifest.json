@@ -1,0 +1,16 @@
+{
+  "short_name": "OMGSwap",
+  "name": "OMGSwap",
+  "icons": [
+    {
+      "src": "./logo.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#ff007a",
+  "background_color": "#fff"
+}
