@@ -1,6 +1,11 @@
 {
   "name": "OMGSwap",
   "timestamp": "2020-09-14T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 2
+  },
   "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/tokenlist/favicon.png",
   "keywords": [
             "omgswap", 
