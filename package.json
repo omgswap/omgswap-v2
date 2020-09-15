@@ -1,9 +1,9 @@
 {
   "name": "@omgswap/web",
   "description": "OMGSwap Web Platform",
-  "homepage": ".",
+  "homepage": "https://app.omgswap.com",
   "private": true,
-  "license": "LGPL-v3.0",
+  "license": "GNU LGPL-v3.0",
   "dependencies": {
     "@omgswap/sdk": "^3.0.3"
   },
