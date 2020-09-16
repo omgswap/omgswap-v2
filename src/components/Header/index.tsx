@@ -5,8 +5,8 @@ import { Text } from 'rebass'
 
 import styled from 'styled-components'
 
-import Logo from '../../assets/images/omg.png'
-import LogoDark from '../../assets/images/omg-dark.png'
+import Logo from '../../assets/svg/omgswap-green.svg'
+import LogoDark from '../../assets/svg/omgswap-green.svg'
 import { useActiveWeb3React } from '../../hooks'
 import { useDarkModeManager } from '../../state/user/hooks'
 import { useETHBalances } from '../../state/wallet/hooks'
