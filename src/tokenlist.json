@@ -19,7 +19,7 @@
       "name": "WrappedEther",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
       "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
@@ -27,7 +27,7 @@
       "name": "TetherUSD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
       "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
@@ -35,7 +35,7 @@
       "name": "USDCoin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
      {
       "address": "0xF4c17Bc4979c1dc7b4CA50115358Dec58C67fD9d",
@@ -59,7 +59,7 @@
       "name": "DaiStablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
     {
       "address": "0x88FBeCfeF7146242C18D26321b628E9FCa6B76dd",
@@ -67,7 +67,23 @@
       "name": "DeFi Index",
       "symbol": "DFIX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/extra/token_logos/256/DFIX.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0x88FBeCfeF7146242C18D26321b628E9FCa6B76dd/logo.png"
+    },
+     {
+      "address": "0x2b7018Fca0eccfBc738828e1E8f1C7038EBBCaa8",
+      "chainId": 1,
+      "name": "Eggy.Finance",
+      "symbol": "EGG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0x2b7018Fca0eccfBc738828e1E8f1C7038EBBCaa8/logo.png"
+    },
+     {
+      "address": "0xF8608b4f74E2adfa43FF8527529E961276a47F17",
+      "chainId": 1,
+      "name": "Hotdogfi.club",
+      "symbol": "HOTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0xF8608b4f74E2adfa43FF8527529E961276a47F17/logo.png"
     },
     {
       "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
@@ -75,7 +91,7 @@
       "name": "SynthsUSD",
       "symbol": "sUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo.png"
     },
     {
       "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
@@ -83,7 +99,7 @@
       "name": "UMAVotingTokenv1",
       "symbol": "UMA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png"
     },
     {
       "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
@@ -91,7 +107,7 @@
       "name": "BandProtocol",
       "symbol": "BAND",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55/logo.png"
     },
     {
       "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
@@ -99,7 +115,7 @@
       "name": "ChainLink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
     },
     {
       "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
@@ -107,7 +123,7 @@
       "name": "Ampleforth",
       "symbol": "AMPL",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/0xD46bA6D942050d489DBd938a2C909A5d5039A161/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0xD46bA6D942050d489DBd938a2C909A5d5039A161/logo.png"
     },
     {
       "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
@@ -115,7 +131,7 @@
       "name": "Compound",
       "symbol": "COMP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png"
     },
     {
       "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
@@ -123,7 +139,7 @@
       "name": "EthLend",
       "symbol": "LEND",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03/logo.png"
     },
     {
       "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
@@ -131,7 +147,7 @@
       "name": "SynthetixNetworkToken",
       "symbol": "SNX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png"
     },
      {
       "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
@@ -139,7 +155,7 @@
       "name": "Republic",
       "symbol": "REN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/0x408e41876cCCDC0F92210600ef50372656052a38/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0x408e41876cCCDC0F92210600ef50372656052a38/logo.png"
     },
     {
       "address": "0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5",
@@ -147,7 +163,7 @@
       "name": "BASED",
       "symbol": "BASED",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5/logo.png"
     },
     {
       "address": "0x476c5E26a75bd202a9683ffD34359C0CC15be0fF",
@@ -155,7 +171,7 @@
       "name": "Serum",
       "symbol": "SRM",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png"
     },
     {
       "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
@@ -163,7 +179,7 @@
       "name": "CurveDAOToken",
       "symbol": "CRV",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
     }
   ]
 }
